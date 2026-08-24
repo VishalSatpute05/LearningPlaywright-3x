@@ -1,0 +1,24 @@
+{
+  "name": "learningplaywrite3x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalSatpute05/LearningPlaywright-3x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VishalSatpute05/LearningPlaywright-3x/issues"
+  },
+  "homepage": "https://github.com/VishalSatpute05/LearningPlaywright-3x#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1"
+  }
+}
