@@ -18,10 +18,14 @@ function step4(callback) {
     callback();
 }
 
-step1(function () {
-    step2(function () {
-        step3(function () {
-            step4(function () {
+step1(function () 
+{
+    step2(function () 
+    {
+        step3(function () 
+        {
+            step4(function () 
+            {
                 console.log("Done!");
             });
         });
